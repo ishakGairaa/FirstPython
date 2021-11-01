@@ -11,4 +11,3 @@ def findXYZ(n) :
 
 
 print(findXYZ(10)); # => [{x: 0, y: 7, z: 2}, ...]
-

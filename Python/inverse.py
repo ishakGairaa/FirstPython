@@ -6,3 +6,6 @@ while(a>0):
   f=f*10+b
   a=int(a//10)
 print("inverse of",a1,"is >>>>",int(f))
+
+
+
